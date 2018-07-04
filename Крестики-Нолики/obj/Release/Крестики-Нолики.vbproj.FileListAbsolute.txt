@@ -1,0 +1,14 @@
+C:\Users\Максим\Documents\Visual Studio 2012\Projects\Крестики-Нолики\Крестики-Нолики\bin\Release\Крестики-Нолики.exe.config
+C:\Users\Максим\Documents\Visual Studio 2012\Projects\Крестики-Нолики\Крестики-Нолики\bin\Release\Крестики-Нолики.exe
+C:\Users\Максим\Documents\Visual Studio 2012\Projects\Крестики-Нолики\Крестики-Нолики\bin\Release\Крестики-Нолики.pdb
+C:\Users\Максим\Documents\Visual Studio 2012\Projects\Крестики-Нолики\Крестики-Нолики\bin\Release\Крестики-Нолики.xml
+C:\Users\Максим\Documents\Visual Studio 2012\Projects\Крестики-Нолики\Крестики-Нолики\obj\Release\Крестики_Нолики.Form1.resources
+C:\Users\Максим\Documents\Visual Studio 2012\Projects\Крестики-Нолики\Крестики-Нолики\obj\Release\Крестики_Нолики.Resources.resources
+C:\Users\Максим\Documents\Visual Studio 2012\Projects\Крестики-Нолики\Крестики-Нолики\obj\Release\Крестики-Нолики.vbproj.GenerateResource.Cache
+C:\Users\Максим\Documents\Visual Studio 2012\Projects\Крестики-Нолики\Крестики-Нолики\obj\Release\Крестики-Нолики.exe
+C:\Users\Максим\Documents\Visual Studio 2012\Projects\Крестики-Нолики\Крестики-Нолики\obj\Release\Крестики-Нолики.xml
+C:\Users\Максим\Documents\Visual Studio 2012\Projects\Крестики-Нолики\Крестики-Нолики\obj\Release\Крестики-Нолики.pdb
+D:\Курсовая работа\Программирование\Projects\Крестики-Нолики\Крестики-Нолики\bin\Release\Крестики-Нолики.exe.config
+D:\Курсовая работа\Программирование\Projects\Крестики-Нолики\Крестики-Нолики\obj\Release\Крестики-Нолики.exe
+D:\Курсовая работа\Программирование\Projects\Крестики-Нолики\Крестики-Нолики\obj\Release\Крестики-Нолики.xml
+D:\Курсовая работа\Программирование\Projects\Крестики-Нолики\Крестики-Нолики\obj\Release\Крестики-Нолики.pdb
